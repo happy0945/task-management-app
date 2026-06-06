@@ -55,7 +55,7 @@ A full-stack Task Management Web Application built using the MERN Stack (MongoDB
 ```bash
 task-management-app/
 │
-├── client/
+├── frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -65,7 +65,7 @@ task-management-app/
 │   │
 │   └── package.json
 │
-├── server/
+├── backend/
 │   ├── controllers/
 │   ├── middleware/
 │   ├── models/
@@ -84,7 +84,7 @@ task-management-app/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/happy0945/task-management-app.git
 
 cd task-management-app
 ```
