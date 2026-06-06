@@ -25,7 +25,8 @@ A full-stack Task Management Web Application built using the MERN Stack (MongoDB
 - Get AI tip for the task
 - Track task
 - Add Subtask in a task
-
+- Drage and Drop
+- And more you check out
 ---
 
 ## 🛠 Tech Stack
@@ -244,15 +245,20 @@ PATCH /api/tasks/:id/status
 
 ### Login Page
 
-Add Screenshot Here
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/a44820b6-25e6-4d06-9c59-aec25284188b" />
 
 ### Dashboard
 
-Add Screenshot Here
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/7b98a298-2ade-47b4-bfe6-39a7e8921841" />
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/1a01c90d-98d9-47ec-a5bc-ff91e93334a7" />
+
+
 
 ### Task Management
 
-Add Screenshot Here
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/53d6991a-5540-4068-8798-b5b4187b8dcb" />
+
 
 ---
 
